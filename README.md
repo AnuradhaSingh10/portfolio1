@@ -1,9 +1,12 @@
-📊 Data Analytics Portfolio — 3 Projects
+data Analytics & Business Intelligence Projects
 
--
- Projects Overview
-#	Project	Domain	Tech Stack	Key Output
-1	Real-Time Financial Dashboard	Finance/Fintech	Python, yfinance, Plotly	Bollinger, RSI, 
-2	Sales Analytics Pipeline	Retail/E-commerce	SQL, Pandas, Plotly	Cohort, LTV, YoY Growth
-3    — HR Attrition	HR Analytics	ML, SHAP, Scikit-learn	AUC 0.87, Risk Tiers
+This repository contains end-to-end data analytics projects demonstrating skills in Python, SQL, statistics, business analysis, and data visualization.
+Each project simulates a real-world business scenario including financial markets, sales performance, and HR analytics.
 
+These projects showcase my ability to:
+
+Perform data cleaning and transformation
+Conduct exploratory data analysis (EDA)
+Build predictive models
+Create business insights through visualization
+Design data pipelines for decision making
